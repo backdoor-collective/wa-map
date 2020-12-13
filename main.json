@@ -29,9 +29,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/roof.json"
+                 "value":"roof.json"
                 }],
          "type":"tilelayer",
          "visible":true,
