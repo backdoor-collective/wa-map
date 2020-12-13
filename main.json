@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceenUrl",
                  "type":"string",
-                 "value":""
+                 "value":"lobby.json"
                 }],
          "type":"tilelayer",
          "visible":true,
