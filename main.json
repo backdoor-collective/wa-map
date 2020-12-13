@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https\/\/rc3.space.bi\/gu29wbei"
+                 "value":" https:\/\/rc3.space.bi\/gu29wbei"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -393,6 +393,12 @@
          "id":30,
          "name":"oW-Mubert",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/play.mubert.com\/0ae4f4865d1fed772ef8591b9"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
@@ -638,6 +644,60 @@
                 }, 
                 {
                  "id":421,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":424,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":425,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":426,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":427,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":428,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":429,
                  "properties":[
                         {
                          "name":"collides",
