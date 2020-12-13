@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/main.json"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
