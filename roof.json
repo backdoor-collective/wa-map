@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#return"
                 }],
          "type":"tilelayer",
          "visible":true,
