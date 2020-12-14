@@ -3080,13 +3080,13 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
+                     "id":3,
                      "name":"",
                      "objects":[
                             {
                              "ellipse":true,
                              "height":0,
-                             "id":1,
+                             "id":10,
                              "name":"",
                              "properties":[
                                     {
@@ -3098,21 +3098,15 @@
                              "type":"",
                              "visible":true,
                              "width":0,
-                             "x":15.0114416475973,
-                             "y":18.1235697940503
+                             "x":15.4691075514874,
+                             "y":18.2151029748284
                             }],
                      "opacity":1,
                      "type":"objectgroup",
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }],
          "tilewidth":32
         }],
