@@ -331,7 +331,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sounds\/wave_01_cc0-18363__jasinski__alkaibeach.mp3"
+                 "value":".\/sounds\/wave_01_cc0-18363__jasinski__alkaibeach.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
