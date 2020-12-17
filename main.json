@@ -329,7 +329,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":".\/sounds\/wave_01_cc0-18363__jasinski__alkaibeach.mp3"
                 }],
