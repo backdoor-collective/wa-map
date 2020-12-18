@@ -524,7 +524,7 @@
          "height":15,
          "id":11,
          "name":"jitsiSmal",
-         "offsetx":0,
+         "offsetx":25,
          "offsety":5,
          "opacity":1,
          "properties":[
@@ -533,6 +533,7 @@
                  "type":"string",
                  "value":"tea"
                 }],
+         "tintcolor":"#aa0000",
          "type":"tilelayer",
          "visible":true,
          "width":30,
