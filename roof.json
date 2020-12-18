@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#return"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
