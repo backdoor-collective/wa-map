@@ -421,7 +421,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fahrplan.events.ccc.de"
+                 "value":"https:\/\/open-web-calendar.herokuapp.com\/calendar.html?url=https%3A%2F%2Ffahrplan.events.ccc.de%2Frc3%2F2020%2FFahrplan%2Fschedule.ics&amp;language=de&amp;skin=dhtmlxscheduler_flat.css&amp;tab=day&amp;tabs=week&amp;tabs=day%22sandbox=%22allow-scripts%20allow-same-origin%20allow-top-navigation%22"
                 }],
          "type":"tilelayer",
          "visible":true,
