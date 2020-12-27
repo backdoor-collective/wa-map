@@ -67,7 +67,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_backdoor-collective}"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/\/maps\/erfas-spaces-north.json#start_backdoor-collective"
                 }],
          "type":"tilelayer",
          "visible":true,
