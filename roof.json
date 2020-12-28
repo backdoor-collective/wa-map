@@ -49,25 +49,7 @@
                 {
                  "name":"getBadge",
                  "type":"string",
-                 "value":"JdcyBoUppkr1nh3a3YoYcPHAmHPw0zzPBaxYN6wSUQovsC7gld"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":15,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":7,
-         "id":14,
-         "name":"oWBadgeRC3",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/rc3.world\/rc3\/me\/manage_badges"
+                 "value":"ojPFPKWly3nNrmpzNT0kOPr19WDGCUyKa9dQjALgTCbo9MJrWU"
                 }],
          "type":"tilelayer",
          "visible":true,
