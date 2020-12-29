@@ -85,7 +85,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lounge.maps.at.rc3.world\/wa-toilet-party\/maps\/restroom-party.json"
+                 "value":"https:\/\/lounge.maps.at.rc3.world\/wa-toilet-party\/maps\/restroom-party.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lobby.maps.at.rc3.world\/maps\/erfas-spaces-north.json#start_backdoor-collective"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/erfas-spaces-north.json#start_backdoor-collective"
                 }],
          "type":"tilelayer",
          "visible":true,
