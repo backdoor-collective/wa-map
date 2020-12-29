@@ -207,6 +207,39 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":18,
+         "name":"Anim",
+         "objects":[
+                {
+                 "height":15.2727272727273,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":39.5454545454546,
+                 "x":125,
+                 "y":80.7272727272727
+                }, 
+                {
+                 "height":0,
+                 "id":10,
+                 "name":"",
+                 "rotation":0,
+                 "type":"computer",
+                 "visible":true,
+                 "width":0,
+                 "x":173.75,
+                 "y":93.25
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 389, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 397, 0, 749, 733, 749, 0, 1148, 1149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":7,
          "id":9,
@@ -218,8 +251,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":18,
- "nextobjectid":1,
+ "nextlayerid":19,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "properties":[
         {
