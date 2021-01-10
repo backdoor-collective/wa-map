@@ -97,7 +97,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/c0c0bird.github.io\/chaos-world\/main.json"
+                 "value":"\/global\/c0c0bird.github.io\/chaos-world\/main.json#backdoor"
                 }],
          "type":"tilelayer",
          "visible":true,
