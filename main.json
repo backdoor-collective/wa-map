@@ -613,7 +613,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/gibro.de\/s\/e0aa54d-Untitled-Space"
+                 "value":"http:\/\/poc.im:9666\/spaces\/05ab0b24-1e16-4767-8f32-2c510e6ee431?spaceAuth=04c719b"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -634,7 +634,7 @@
                  "value":"https:\/\/wbo.ophir.dev\/boards\/ping"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":30,
          "x":0,
          "y":0
