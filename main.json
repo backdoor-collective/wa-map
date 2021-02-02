@@ -613,7 +613,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/poc.im:9666\/spaces\/05ab0b24-1e16-4767-8f32-2c510e6ee431?spaceAuth=04c719b"
+                 "value":"https:\/\/poc.im:9666\/spaces\/05ab0b24-1e16-4767-8f32-2c510e6ee431?spaceAuth=04c719b"
                 }],
          "type":"tilelayer",
          "visible":true,
