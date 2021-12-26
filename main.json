@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lobby"
+                 "value":"world:\/\/lobby\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

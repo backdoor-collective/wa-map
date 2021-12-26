@@ -117,16 +117,10 @@
                  "type":"",
                  "visible":true,
                  "width":99.0712074303406,
-                 "x":88.6136910904713,
-                 "y":76.5049879600963
+                 "x":92.9470244238046,
+                 "y":71.5049879600963
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"qcCOOzRBq9eDhQPfx1bepJ4AmKd2e6tb5TDSdRhN79prfOYSmp"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -192,13 +186,28 @@
          "y":0
         }],
  "nextlayerid":21,
- "nextobjectid":14,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"getBadge",
+         "name":"mapCopyright",
          "type":"string",
-         "value":"iNUzufV9NXdp0KFhGh4vHcurrAMs8QeHfchO469AVwCOoXKXg6"
+         "value":"CC0 by Koile"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Map of the Backdoor Collectiv created for RC3 in 2020 and updated in 2021"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/backdoor-collective.github.io\/wa-map\/main.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"backdoor collective"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -212,6 +221,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by Mulana"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -235,6 +250,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"cc0KoileTiles32er",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by Koile"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -269,6 +290,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Pipoya"
+                }],
          "spacing":0,
          "tilecount":304,
          "tileheight":32,
@@ -282,6 +309,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Pipoya"
+                }],
          "spacing":0,
          "tilecount":472,
          "tileheight":32,
@@ -295,6 +328,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Pipoya"
+                }],
          "spacing":0,
          "tilecount":288,
          "tileheight":32,
