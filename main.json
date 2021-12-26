@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/pcb.json#start_backdoor"
                 }],
          "type":"tilelayer",
          "visible":true,
