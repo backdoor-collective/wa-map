@@ -109,6 +109,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/codimd.c3d2.de\/s\/HJZ3Rp4tF#"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to get our Eventphone Number (it's 4284)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,6 +137,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/mastovue.glitch.me\/#\/chaos.social\/federated\/rc3"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to browse #RC3 on Mastodon"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,6 +165,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/codimd.c3d2.de\/s\/tunfish"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to get som info about Tunfish"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,6 +193,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fyyd.de\/podcast\/machtdose-podcast\/player\/latest"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to listen to Machtdose aqualounge podcast"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,6 +221,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/codimd.c3d2.de\/s\/H1jD1RVFF#"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to look and write @ our Board"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -217,6 +267,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/hiveeyes.org\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to open the hiveeyes website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,6 +349,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/551423742&color=%23292728&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to listen to music "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,6 +377,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/307342085&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to listen to music by Arne Bense"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -325,6 +405,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/diode.zone\/videos\/embed\/db8ff229-096a-421e-87d9-2fd8deb00cac"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to watch a video of the sailboat julchen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -438,6 +528,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/loyaltyfreakmusic.com\/music\/game-jam-vol2\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press \"space\" Key to"
                 }],
          "type":"tilelayer",
          "visible":true,
