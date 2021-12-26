@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":7,
  "infinite":false,
  "layers":[
@@ -29,45 +22,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"main.json#return"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":15,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":7,
-         "id":13,
-         "name":"badge",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"ojPFPKWly3nNrmpzNT0kOPr19WDGCUyKa9dQjALgTCbo9MJrWU"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":15,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":7,
-         "id":15,
-         "name":"pABadge",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":".\/sounds\/nobadge.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -142,7 +99,41 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 389, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 397, 0, 0, 0, 0, 0, 1164, 1165, 0, 0, 1054, 1056, 0, 684, 0, 405, 1057, 0, 0, 0, 0, 1172, 1173, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 157, 0, 0, 0, 405, 0, 757, 741, 757, 0, 1156, 1157, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "draworder":"topdown",
+         "id":20,
+         "name":"badge",
+         "objects":[
+                {
+                 "height":22.015823873409,
+                 "id":11,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"qcCOOzRBq9eDhQPfx1bepJ4AmKd2e6tb5TDSdRhN79prfOYSmp"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":99.0712074303406,
+                 "x":88.6136910904713,
+                 "y":76.5049879600963
+                }],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"qcCOOzRBq9eDhQPfx1bepJ4AmKd2e6tb5TDSdRhN79prfOYSmp"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 389, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 397, 0, 0, 0, 0, 0, 1164, 1165, 0, 0, 1054, 1056, 0, 0, 0, 405, 1057, 0, 0, 0, 0, 1172, 1173, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 157, 0, 0, 0, 405, 0, 757, 741, 757, 0, 1156, 1157, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":7,
          "id":4,
          "name":"top",
@@ -200,8 +191,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":19,
- "nextobjectid":11,
+ "nextlayerid":21,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -210,7 +201,7 @@
          "value":"iNUzufV9NXdp0KFhGh4vHcurrAMs8QeHfchO469AVwCOoXKXg6"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -311,6 +302,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":15
 }
